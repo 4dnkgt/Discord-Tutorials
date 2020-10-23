@@ -1,0 +1,15 @@
+{
+  "name": "bot0",
+  "version": "1.0.0",
+  "description": "Hello world this is the discord js tutorials Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Raylen",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.0"
+  }
+}
